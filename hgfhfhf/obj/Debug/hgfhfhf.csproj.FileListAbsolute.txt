@@ -1,0 +1,10 @@
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\obj\Debug\hgfhfhf.csprojAssemblyReference.cache
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\obj\Debug\hgfhfhf.Properties.Resources.resources
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\obj\Debug\hgfhfhf.csproj.GenerateResource.cache
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\obj\Debug\hgfhfhf.csproj.CoreCompileInputs.cache
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\bin\Debug\hgfhfhf.exe.config
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\bin\Debug\hgfhfhf.exe
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\bin\Debug\hgfhfhf.pdb
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\obj\Debug\hgfhfhf.exe
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\obj\Debug\hgfhfhf.pdb
+C:\Users\KhayyamSsh\source\repos\hgfhfhf\hgfhfhf\obj\Debug\WindowsFormsApp4.Form1.resources
